@@ -11,12 +11,12 @@ meta-description: Meta description for SEO purposes. Format is TBD
 - For best performance, Qumulo recommends at least **8GB of RAM and an SSD** to host the virtual images.
 - **Four (4)** instances of Qumulo Core are required to form a complete cluster.
 
-#### Step 1: Download and launch
+#### Step 1: Launch the `.ova`
 Start with the downloaded `.ova` file and double click on it to launch VMware. You will be prompted for a local storage path to save the virtual machine (if possible, save the virtual machine on an SSD device):
 
 ![Qumulo Virtual Cluster - Launch VM creation](images/initial_vmware_launch.png "Initial Qumulo VMWare image luanch screen in Windows")
 
-#### Step 2: Configure the virtual machine
+#### Step 2: Create and configure instance of Qumulo Core
 1. Next, a warning will present itself:
 ![Qumulo Virtual Cluster - OVF specification compliance check](images/vmware_relax_spec_1.png "Qumulo VMware intial warning")
 
@@ -33,7 +33,7 @@ Click _Retry_ and provisioning will continue:
   - **NAT** will use the IP address of the machine that VMware is running on, and hide the internal IP addresses from your network.
   - **Bridged** will allow the virtual machines to present themselves as additional network interfaces. If your computer is assigned an address via DHCP, then the virtual machines will also automatically be assigned IP addresses.
   - This can be changed later, but will require restarting the virtual machines.
-
+  
 1. Launch additional instances from the same initial .ova file.  A total of **four (4)** instances are required to be deployed.  Follow the same steps for each instance.
 ![Qumulo Virtual Cluster Setup - Create node 2](images/launch_instance_2.png "Choose networking option")
 
