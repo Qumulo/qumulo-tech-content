@@ -1,3 +1,7 @@
+---
+title: Replicating data using the QF2 dashboard
+url: data-replication
+---
 # Replication
 
 This tutorial shows you how to replicate data by using the QF2 dashboard. Replication copies data between two or more QF2 clusters at a directory level. In this tutorial, you'll copy data from one cluster to another, so you'll need two clusters. You can set up a cluster on another machine or on AWS. These tutorials can help you.
