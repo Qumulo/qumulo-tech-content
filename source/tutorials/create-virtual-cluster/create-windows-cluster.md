@@ -1,3 +1,7 @@
+---
+title: Create a Qumulo File Fabric (QF2) Virtual Cluster on Windows
+url: create-qf2-virtual-cluster-on-windows
+---
 # Create a Qumulo File Fabric (QF2) Virtual Cluster on Windows
 
 In this tutorial, you’ll simulate an on-premises QF2 cluster by using VMware virtual machines (VM) to create four nodes. A cluster is a collection of nodes, where an on-premises node is a single hardware chassis (simulated in the tutorial by a VM). An on-premises cluster requires a minimum of four nodes because of the way the Qumulo block protection scheme works.

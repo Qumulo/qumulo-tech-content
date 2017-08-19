@@ -1,3 +1,7 @@
+---
+title: Create an NFS Export
+url: create-nfs-export
+---
 # Create an NFS Export
 
 In this tutorial, you’ll use the QF2 dashboard to create a Network File System (NFS) export. The export allows NFS clients to share data stored in a particular directory.

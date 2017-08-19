@@ -1,3 +1,7 @@
+---
+title: Safe Shutdown
+url: safe-shutdown
+---
 # Safe Shutdown
 This procedure shows you how to safely shut down your cluster.
 
