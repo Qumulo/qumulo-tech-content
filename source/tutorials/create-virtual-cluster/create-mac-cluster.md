@@ -1,3 +1,8 @@
+---
+title: Create a Qumulo File Fabric (QF2) Virtual Cluster on a Mac
+url: create-qf2-virtual-cluster-on-a-mac
+---
+
 # Create a Qumulo File Fabric (QF2) Virtual Cluster on a Mac
 In this tutorial, you’ll simulate an on-premises QF2 cluster by using virtual machines (VM). A cluster is a collection of nodes, where an on-premises node is a single hardware chassis. A node is simulated in the tutorial by a VM. An on-premises cluster requires a minimum of four nodes because of the way the block protection scheme works.
 

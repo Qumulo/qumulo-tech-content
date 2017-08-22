@@ -1,3 +1,8 @@
+---
+title: Create an SMB Share
+url: create-smb-share
+---
+
 # Create an SMB Share
 
 In this tutorial, you’ll use the QF2 dashboard to create a Server Message Block (SMB) share. The share allows SMB clients to share data stored in a particular directory.
