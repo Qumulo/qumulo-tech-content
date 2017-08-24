@@ -1,6 +1,10 @@
 ---
 title: Create a Qumulo File Fabric (QF2) Virtual Cluster on a Mac
 url: create-qf2-virtual-cluster-on-a-mac
+tags:
+  - virtual cluster
+  - tutorial
+  - macintosh
 ---
 
 # Create a Qumulo File Fabric (QF2) Virtual Cluster on a Mac
