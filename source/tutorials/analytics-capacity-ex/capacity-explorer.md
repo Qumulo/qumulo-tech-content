@@ -1,3 +1,9 @@
+---
+title: Analytics &mdash; Capacity Explorer
+url: analytics-capacity-ex
+tags:
+  - analytics
+---
 # Analytics &mdash; Capacity Explorer
 Analytics lets you see how capacity is used on your system.
 

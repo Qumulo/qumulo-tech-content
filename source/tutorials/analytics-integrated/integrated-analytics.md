@@ -1,3 +1,9 @@
+---
+title: Analytics &mdash; Integrated Analytics
+url: analytics-integrated
+tags:
+  - analytics
+---
 # Analytics &mdash; Integrated Analytics 
 
 Analytics has a central dashboard that gives you an overview of what’s happening in your storage system.
