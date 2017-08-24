@@ -1,6 +1,10 @@
 ---
 title: Create a Qumulo File Fabric (QF2) Virtual Cluster on Windows
 url: create-qf2-virtual-cluster-on-windows
+tags:
+  - virtual cluster
+  - tutorial
+  - windows
 ---
 # Create a Qumulo File Fabric (QF2) Virtual Cluster on Windows
 

@@ -43,6 +43,10 @@ The article.md files support the following frontmatter keys:
 ---
 title: My article title
 url: my-article-url
+tags:
+  - tag1
+  - tag2
+  - tag3 with spaces
 ---
 ```
 
@@ -63,11 +67,10 @@ Each category is expected to have a file structure like this:
 
 Tips for a successful import:
 
-* Be aware that the name of the category directory will also be used in the category url (e.g., my-category above will become http://qumulo.com/my-category/)
 * Make sure you have a category.md file.  It's a special frontmatter markdown file describing the category title and other associated metadata for the category.
 * Create a different subdirectory for each article
-* Throw the markdown files for those articles inside those article subdirectories
-* Throw images for articles inside `source/my-category/my-article/images`
+* Markdown files for articles must be inside those article subdirectories
+* Images for articles must be inside a subdirectory of the article directory named "images"
 
 
 ## Deploying content to production

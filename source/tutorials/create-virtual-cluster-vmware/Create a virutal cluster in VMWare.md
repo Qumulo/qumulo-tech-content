@@ -2,7 +2,11 @@
 url: create-virtual-cluster-vmware  
 category: How To  
 title: How to create a Qumulo virtual cluster in VMware  
-meta-description: Meta description for SEO purposes. Format is TBD  
+meta-description: Meta description for SEO purposes. Format is TBD
+tags:
+  - virtual cluster
+  - tutorial
+  - vmware
 ---
 ## Create a Virtual Cluster in VMware
 
