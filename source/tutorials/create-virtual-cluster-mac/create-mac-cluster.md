@@ -31,47 +31,47 @@ In this section, you create your first node.
 1. Download the VMware .ova file and click on it.
 2. VMware Fusion opens. Select the file and click **Continue**.
 
-![Choose existing VM](mac-images/mac-fusion-choose-existing.png)
+![Choose existing VM](images/mac-fusion-choose-existing.png)
 
 3. A dialog box opens.
 
-![Save dialog box](mac-images/mac-fusion-save.png)
+![Save dialog box](images/mac-fusion-save.png)
 
 4. In the **Save As** field, use the default name. 
 5. In the **Where** field either use the default path or enter a local storage path where you want to save the VM. If possible, save it on an SSD device.
 6. Click **Save**. 
 7. A warning message appears.
 
-![Warning message](mac-images/mac-fusion-retry.png)
+![Warning message](images/mac-fusion-retry.png)
 
 8. Ignore the message and click **Retry**.
 9. VMware Fusion imports the VM.
 
-![Importing VM](mac-images/mac-fusion-importing.png)
+![Importing VM](images/mac-fusion-importing.png)
 
 10. When the process is complete, you’ll see a summary of the VM’s settings.
 
-![VM settings summary](mac-images/mac-fusion-finish-summary.png)
+![VM settings summary](images/mac-fusion-finish-summary.png)
 
 11. Click **Finish**.
 12. You’re asked if you want to upgrade the VM.
 
-![Upgrade question](mac-images/mac-fusion-upgrade.png)
+![Upgrade question](images/mac-fusion-upgrade.png)
 
 13. Click **Don't Upgrade**.
 14. The VM starts and, after some code scrolls by, you see the Qumulo End User License Agreement (EULA). Scroll to the end. Select both boxes and click **Submit**.
 
-![EULA agreement](mac-images/mac-fusion-eula.png)
+![EULA agreement](images/mac-fusion-eula.png)
 
 15. The Qumulo configuration page appears.
 
-![Qumulo configuration page](mac-images/mac-fusion-qum-node-connect-01.png)
+![Qumulo configuration page](images/mac-fusion-qum-node-connect-01.png)
 
 ## Create the additional nodes
 
 1. You’ve successfully created one node and you need to create three more. From the VMWare Fusion tool bar, click **File** and then click **New...**. You’ll be asked to select the installation method.
 
-![Select installation method](mac-images/mac-fusion-select-install-method.png)
+![Select installation method](images/mac-fusion-select-install-method.png)
 
 2. Click **Import an existing virtual machine**. Click **Continue**.
 3. From the **Choose an Existing Virtual Machine** dialog, select the same OVA file you used before and click **Continue**. 
@@ -80,32 +80,32 @@ In this section, you create your first node.
 6. Once you’ve created the second node, create the third and fourth nodes. 
 7. When you are done, the Qumulo configuration page should show that you have four nodes. They should all be selected.
 
-![Four nodes selected](mac-images/mac-fusion-four-nodes-created.png)
+![Four nodes selected](images/mac-fusion-four-nodes-created.png)
 
 ## Create a cluster
 
 1. In this section you create your cluster. You should still be on the configuration page.
 2. In the **Cluster name** field, enter a cluster name. In this example, it is qumulo-vm.
 
-![Enter cluster name](mac-images/mac-fusion-create-qumulo-vm.png)
+![Enter cluster name](images/mac-fusion-create-qumulo-vm.png)
 
 3. Scroll down and enter a password for the admin account. Make a note of it. You need it to administer the cluster.
 
-![Enter admin password](mac-images/mac-fusion-password.png)
+![Enter admin password](images/mac-fusion-password.png)
 
 4. Click **Create Cluster**.
 5. You’ll be asked for a confirmation.
 
-![Confirm create cluster](mac-images/mac-fusion-create-confirm.png)
+![Confirm create cluster](images/mac-fusion-create-confirm.png)
 
 6. Click **Yes, Create Cluster**.
 7. You’ll see a message saying the cluster is being created.
 
-![Cluster being created](mac-images/mac-fusion-creating-cluster.png)
+![Cluster being created](images/mac-fusion-creating-cluster.png)
 
 7. The Dashboard appears.
 
-![Cluster admin page](mac-images/mac-fusion-main-admin.png)
+![Cluster admin page](images/mac-fusion-main-admin.png)
 
 8. Note the IP address, located at the top. You can use your browser to reach the dashboard. In this example, the URL is http://10.20.231.123.
 
