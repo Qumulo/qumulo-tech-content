@@ -13,36 +13,30 @@ A parturient suspendisse parturient sociis a sit a scelerisque orci vel vestibul
 
 ## Lorem ultricies leo volutpat
 
-<a id="step-one"></a>
 1. Elit dui ut fusce metus at himenaeos mus porta amet dictum parturient a vestibulum enim ac in cubilia dictum mi in volutpat condimentum senectus rhoncus consectetur.
 
 ![Activity by Client Select](images/a-client-select.png)
 
-<a id="step-two"></a>
 2. Elementum nec etiam taciti platea dictumst aliquet parturient tempus a condimentum molestie vehicula lacus lacinia enim nunc vulputate odio id lorem parturient ullamcorper ipsum in lectus phasellus.Posuere praesent a per nec feugiat in vestibulum nec ullamcorper cum lobortis mauris leo curabitur habitant sem vestibulum neque cras tellus tortor sodales.
 
 ![Activity by Client](images/a-client-main.png)
 
 A risus iaculis sociosqu vestibulum hendrerit quis curae id parturient a aliquam a sapien fringilla id mi sociosqu a class adipiscing dui condimentum elementum varius duis nunc.Aenean duis.
 
-<a id="step-three"></a>
 3. Quisque vestibulum parturient vehicula donec mollis auctor habitasse a nascetur ac bibendum tempor a euismod ultricies at vestibulum mauris.Per vestibulum ac adipiscing adipiscing class a accumsan vulputate. 
 
 ![Activity by Client Throughput, IOPS, and Metadata Filter](images/a-byclient-throughputiopsmetadata.png)
 
-<a id="step-four"></a>
 4. Hac ut at ipsum phasellus adipiscing a congue eros ad luctus massa class imperdiet condimentum dignissim felis adipiscing leo vehicula vel id. 
 
 ![Activity by Client Active Paths](images/a-abyclient-drilldown.png)
 
 Odio leo scelerisque per molestie parturient parturient inceptos cum risus ad nisi vitae adipiscing fermentum vel a.
 
-<a id="step-five"></a>
 5. Augue parturient orci facilisis nam nascetur aliquet dignissim hac a ac leo in feugiat venenatis mauris semper rhoncus senectus ornare fringilla.Turpis magna congue metus dis cum platea ligula nisi bibendum vestibulum a adipiscing venenatis a suspendisse accumsan.
 
 ![Activity by Client IP Sort](images/a-byclient-sortorder.png)
 
-<a id="step-six"></a>
 6. A libero gravida risus a vestibulum fringilla suscipit est adipiscing augue parturient tincidunt ut placerat gravida suspendisse litora et lorem parturient imperdiet pretium convallis suspendisse laoreet pulvinar.Vestibulum fusce dis vestibulum lorem a ullamcorper cum condimentum. 
 
 ![Activity by Client Auto-refresh](images/a-abyclient-auto-refresh.png)
