@@ -1,4 +1,10 @@
-Analytics &mdash; IOPS Hot Spots
+---
+title: Analytics &mdash; IOPS Hot Spots
+url: iops-hotspots
+tags:
+  - analytics
+---
+#Analytics &mdash; IOPS Hot Spots
 
 Analytics lets you identify the IOPS (input/output per second) hot spots in your storage system.
 

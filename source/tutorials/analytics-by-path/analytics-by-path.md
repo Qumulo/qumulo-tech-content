@@ -1,3 +1,9 @@
+---
+title: Analytics Activity By Path
+url: analytics-by-path
+tags:
+  - analytics
+---
 # Analytics Activity By Path
 
 Analytics lets you see which paths are most active in terms of throughput and IOPS.

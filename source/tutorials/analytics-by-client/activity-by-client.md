@@ -1,3 +1,9 @@
+---
+title: Analytics Activity By Client
+url: analytics-by-client
+tags:
+  - analytics
+---
 # Analytics Activity By Client
 
 Analytics lets you see which clients are most active in terms of throughput and IOPS.
