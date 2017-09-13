@@ -1,8 +1,6 @@
 ---
 title: Analytics &mdash; IOPS Hot Spots
 url: iops-hotspots
-tags:
-  - analytics
 ---
 #Analytics &mdash; IOPS Hot Spots
 

@@ -1,3 +1,7 @@
+---
+title: Installing a Single-node Qf2 Cluster on AWS
+url: install-single-node-qf2-cluster-aws
+---
 # Installing a Single-node Cluster on AWS
 
 In this procedure, you set up a single node QF2 cluster on AWS. The procedure assumes that you already have an AWS account and understand basic AWS operations such as getting AWS keys, selecting an AMI, selecting an EC2 instance and setting up security groups. 

@@ -1,8 +1,6 @@
 ---
 title: Analytics Activity By Client
 url: analytics-by-client
-tags:
-  - analytics
 ---
 # Analytics Activity By Client
 

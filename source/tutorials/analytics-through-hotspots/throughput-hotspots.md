@@ -1,8 +1,6 @@
 ---
 title: Analytics &mdash;Throughput Hot Spots
 url: analytics-through-hotspots
-tags:
-  - analytics
 ---
 # Analytics &mdash;Throughput Hot Spots
 

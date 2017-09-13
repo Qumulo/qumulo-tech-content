@@ -1,8 +1,6 @@
 ---
 title: Analytics Activity By Path
 url: analytics-by-path
-tags:
-  - analytics
 ---
 # Analytics Activity By Path
 

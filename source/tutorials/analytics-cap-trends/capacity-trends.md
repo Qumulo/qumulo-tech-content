@@ -1,8 +1,6 @@
 ---
 title: Analytics &mdash; Capacity Trends
 url: analytics-cap-trends
-tags:
-  - analytics
 ---
 # Analytics &mdash; Capacity Trends
 

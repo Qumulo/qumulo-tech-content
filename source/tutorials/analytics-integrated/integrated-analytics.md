@@ -1,8 +1,6 @@
 ---
 title: Analytics &mdash; Integrated Analytics
 url: analytics-integrated
-tags:
-  - analytics
 ---
 # Analytics &mdash; Integrated Analytics 
 
