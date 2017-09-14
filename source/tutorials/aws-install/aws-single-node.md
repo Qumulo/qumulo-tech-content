@@ -9,24 +9,24 @@ In this procedure, you set up a single node QF2 cluster on AWS. The procedure as
 We recommend you use Chrome as your browser.
 
 ## Get the AMI
-1. Go to AWS Marketplace and get the AMI.
-2. Go to the EC2 Dashboard and select **AMI**s.
+
+1. Go to the EC2 Dashboard and select **AMI**s.
 
 ![EC2 dashboard - AMI images](images/aws-images-ami.png)
 
-3. Select the appropriate AMI source, either **Owned by me**, **Public images** or **Private images**.
+2. Select the **Private images** AMI source.
 
 ![AMI source selection](images/aws-ami-selection.png)
 
-4. The **Resource Group** screen appears. Select the AMI image, named **Qumulo**.
+3. The **Resource Group** screen appears. Select the AMI image, named **Qumulo**.
 
 ![AMI selection](images/aws-ami-imagechoose.png)
 
-5. Click **Launch** to begin provisioning the image.
+4. Click **Launch** to begin provisioning the image.
 
 ![AMI launch](images/aws-ami-launch-1.png)
 
-6. Choose an instance type, then scroll down and click **Review and Launch**. 
+5. Choose an instance type, then scroll down and click **Review and Launch**. 
 
 ![AMI instance type](images/aws-ami-instancetype-launch.png)
 
