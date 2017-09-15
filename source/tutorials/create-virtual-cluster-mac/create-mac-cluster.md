@@ -22,13 +22,15 @@ Here are the system requirements.
 3. Log in to the cluster as admin.
 
 ## User requirements
-The tutorial VMware Fusion creates the virutal cluster with VMware Fusion. The application uses some defaults when it configures the nodes. For example, it assumes that DHCP is available, and it automatically powers on each instance. If you have other preferences, you need to understand VMware Fusion well enough to change its settings.
+The tutorial creates the virutal cluster with VMware Fusion. The application uses some defaults when it configures the nodes. For example, it assumes that DHCP is available, and it automatically powers on each instance. If you have other preferences, you need to understand VMware Fusion well enough to change its settings.
+
+This procedure assumes that you've already downloaded the .ova file.
 
 ## Create a node
 
 In this section, you create your first node.
 
-1. Download the VMware .ova file and click on it.
+1. Go to the directory where you downloaded the VMware .ova file and click on it.
 2. VMware Fusion opens. Select the file and click **Continue**.
 
 ![Choose existing VM](images/mac-fusion-choose-existing.png)

@@ -6,6 +6,8 @@ url: install-single-node-qf2-cluster-aws
 
 In this procedure, you set up a single node QF2 cluster on AWS. The procedure assumes that you already have an AWS account and understand basic AWS operations such as getting AWS keys, selecting an AMI, selecting an EC2 instance and setting up security groups. 
 
+This procedure assumes that you have already gotten the AMI.
+
 We recommend you use Chrome as your browser.
 
 ## Get the AMI
@@ -26,7 +28,7 @@ We recommend you use Chrome as your browser.
 
 ![AMI launch](images/aws-ami-launch-1.png)
 
-5. Choose an instance type, then scroll down and click **Review and Launch**. 
+5. Choose an m4.2xlarge instance type, then scroll down and click **Review and Launch**. 
 
 ![AMI instance type](images/aws-ami-instancetype-launch.png)
 

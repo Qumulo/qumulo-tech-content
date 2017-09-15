@@ -18,7 +18,7 @@ You need to have VMware Fusion installed on your computer.
 3. Log in to the cluster as admin.
 
 ## User requirements
-The tutorials walk you through everything you need to know to set up and use a cluster but it’s helpful if you have some understanding of the network you’ll be using. Try to find out if your environment uses the Dynamic Host Configuration Protocol (DHCP) to assign IP addresses or if you need to assign the addresses yourself. If you do need to assign the addresses manually, collect the following information:
+The tutorials walk you through everything you need to know to set up a cluster but it’s helpful if you have some understanding of the network you’ll be using. Try to find out if your environment uses the Dynamic Host Configuration Protocol (DHCP) to assign IP addresses or if you need to assign the addresses yourself. If you do need to assign the addresses manually, collect the following information:
 
 * The subnet mask
 * The gateway
@@ -28,11 +28,13 @@ The tutorials walk you through everything you need to know to set up and use a c
 
 Familiarity with VMware Fusion is helpful.
 
-## Download the VMware File
-In this section you download the VMware file. 
+This procedure assumes that you've already downloaded the .ova file.
 
-1. Download the .ova file (699MB). 
-2. Click on the file. The VMware Workstation opens.
+## Open the VMware File
+In this section you open the VMware file. 
+
+1. Go to the directory where you downloaded the VMware .ova file and click on it. 
+2. The VMware Workstation opens.
  
  ![Import VM](images/vmware-start-1.png)
 
