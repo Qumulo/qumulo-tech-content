@@ -1,9 +1,9 @@
 ---
-title: Create a Qumulo File Fabric (QF2) Virtual Cluster on a Mac
+title: Create a Qumulo File Fabric (QF2) virtual cluster on a Mac
 url: create-qf2-virtual-cluster-on-a-mac
 ---
 
-# Create a Qumulo File Fabric (QF2) Virtual Cluster on a Mac
+# Create a Qumulo File Fabric (QF2) virtual cluster on a Mac
 (This procedure assumes that you've already downloaded the .ova file. If you haven't, go [here](/evaluate/download/vm).) 
 
 In this tutorial, you’ll simulate an on-premises QF2 cluster by using virtual machines (VM). A cluster is a collection of nodes, where an on-premises node is a single hardware chassis. A node is simulated in the tutorial by a VM. An on-premises cluster requires a minimum of four nodes because of the way the block protection scheme works.
@@ -115,10 +115,10 @@ In this section, you create your first node.
 
 Now that you've set up your cluster, you can set up shares and exports. These tutorials will help you.
 
-* [Create an NFS export](/resources/how-to/create-an-nfs-export)
+* [Create an NFS export](/resources/how-to/create-nfs-export)
 * [Create an SMB share](/resources/how-to/create-smb-share)
 
-To safely shut down your cluster, see the [Safe Shutdown](/resources/how-to/safe-shutdown) tutorial. Once a cluster is shut down, you have to power on the VMs again to restart it.
+To safely shut down your cluster, see the [Safe shutdown](/resources/how-to/safe-shutdown) tutorial. Once a cluster is shut down, you have to power on the VMs again to restart it.
 
 
 

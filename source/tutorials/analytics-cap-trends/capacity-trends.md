@@ -1,8 +1,8 @@
 ---
-title: Analytics &mdash; Capacity Trends
+title: Analytics &mdash; capacity trends
 url: analytics-cap-trends
 ---
-# Analytics &mdash; Capacity Trends
+# Analytics &mdash; capacity trends
 
 Analytics gives you a picture of the capacity trends in your system over time, but not every file and directory can be visualized when there are large numbers of them. For example, think about how difficult it would be to represent a directory that has millions of files and/or subdirectories.  
 

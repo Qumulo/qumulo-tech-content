@@ -1,8 +1,8 @@
 ---
-title: Create a Quota
+title: Create a quota
 url: create-quota
 ---
-# Create a Quota
+# Create a quota
 
 In this tutorial, you’ll use the QF2 dashboard to create a quota. Quotas allocate specific amounts of storage to specific directories. Quotas in QF2 Core are dynamically updated and take effect immediately. They can be applied to any directory, even nested ones. If there is more than one quota because of nested directories, all quotas must be satisfied in order to allocate the requested space.
 

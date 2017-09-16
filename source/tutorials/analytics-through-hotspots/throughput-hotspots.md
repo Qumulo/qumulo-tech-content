@@ -1,8 +1,8 @@
 ---
-title: Analytics &mdash;Throughput Hot Spots
+title: Analytics &mdash;Throughput hot spots
 url: analytics-through-hotspots
 ---
-# Analytics &mdash;Throughput Hot Spots
+# Analytics &mdash;Throughput hot spots
 
 Analytics lets you identify the throughput hot spots in your storage system.
 

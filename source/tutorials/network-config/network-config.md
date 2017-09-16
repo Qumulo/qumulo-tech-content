@@ -1,8 +1,8 @@
 ---
-title: Configure the Network for Static Addresses
+title: Configure the network for static addresses
 url: network-configuration
 ---
-# Configure the Network for Static Addresses
+# Configure the network for static addresses
 
 In this tutorial you use Network Configuration to manually assign IPv4 static addresses.
 

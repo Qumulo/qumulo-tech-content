@@ -2,7 +2,7 @@
 title: Creating snapshots using the QF2 dashboard
 url: create-snapshot
 ---
-# Create a Snapshot
+# Create a snapshot
 Snapshots let you preserve the state of a directory at a given point in time. If a file or directory is modified or deleted unintentionally, you can use the snapshot to revert it to its saved state. This tutorial shows you how to take a snapshot on demand or by setting a policy, which is a schedule that automatically takes snapshots at the times you specify.
 
 ## Create a snapshot on demand

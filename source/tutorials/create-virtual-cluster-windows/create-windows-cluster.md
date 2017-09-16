@@ -1,8 +1,8 @@
 ---
-title: Create a Qumulo File Fabric (QF2) Virtual Cluster on Windows
+title: Create a Qumulo File Fabric (QF2) virtual cluster on Windows
 url: create-qf2-virtual-cluster-on-windows
 ---
-# Create a Qumulo File Fabric (QF2) Virtual Cluster on Windows
+# Create a Qumulo File Fabric (QF2) virtual cluster on Windows
 
 (This procedure assumes that you've already downloaded the .ova file. If you haven't, go [here](/evaluate/download/vm).)
 
@@ -158,7 +158,7 @@ In this section you create a cluster.
 
 Your cluster is now set up and ready to share data. The next step is to create exports and shares. Here are the tutorials.
 
-* [Create an NFS export](/resources/how-to/create-an-nfs-export)
+* [Create an NFS export](/resources/how-to/create-nfs-export)
 * [Create an SMB share](/resources/how-to/create-smb-share)
 
 To safely shut down your cluster, see the [Safe Shutdown](/resources/how-to/safe-shutdown) tutorial. Once a cluster is shut down, you have to power on the VMs again to restart it.

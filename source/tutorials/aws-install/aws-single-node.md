@@ -1,8 +1,8 @@
 ---
-title: Installing a Single-node Qf2 Cluster on AWS
+title: Installing a single-node QF2 cluster on AWS
 url: install-single-node-qf2-cluster-aws
 ---
-# Installing a Single-node Cluster on AWS
+# Installing a single-node cluster on AWS
 
 (This procedure assumes that you have already gotten the AMI. If you haven't, go [here](/evaluate/download/ami).)
 
@@ -10,7 +10,7 @@ In this procedure, you set up a single node QF2 cluster on AWS. The procedure as
 
 We recommend you use Chrome as your browser.
 
-## Get the AMI
+## Launch the AMI
 
 1. Go to the EC2 Dashboard and select **AMI**s.
 
@@ -120,7 +120,7 @@ Once it does, Use your browser to access the instance. To see the IP address, se
 
 Now that your cluster is ready to start sharing data, you can set up exports or shares. Here are the tutorials.
 
-* [Create an NFS export](/resources/how-to/create-an-nfs-export)
+* [Create an NFS export](/resources/how-to/create-nfs-export)
 * [Create an SMB share](/resources/how-to/create-smb-share)
 
 

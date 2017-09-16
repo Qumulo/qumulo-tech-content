@@ -1,8 +1,8 @@
 ---
-title: Safe Shutdown
+title: Safe shutdown
 url: safe-shutdown
 ---
-# Safe Shutdown
+# Safe shutdown
 This procedure shows you how to safely shut down your cluster.
 
 1. Log in as admin.

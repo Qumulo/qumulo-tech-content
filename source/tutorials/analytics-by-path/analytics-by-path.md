@@ -1,8 +1,8 @@
 ---
-title: Analytics Activity By Path
+title: Analytics activity by path
 url: analytics-by-path
 ---
-# Analytics Activity By Path
+# Analytics activity by path
 
 Analytics lets you see which paths are most active in terms of throughput and IOPS.
 

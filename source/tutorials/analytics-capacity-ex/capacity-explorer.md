@@ -1,8 +1,8 @@
 ---
-title: Analytics &mdash; Capacity Explorer
+title: Analytics &mdash; capacity explorer
 url: analytics-capacity-ex
 ---
-# Analytics &mdash; Capacity Explorer
+# Analytics &mdash; capacity explorer
 Analytics lets you see how capacity is used on your system.
 
 1. On the main dashboard, point to **Analytics** and click **Capacity Explorer**.
