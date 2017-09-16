@@ -18,25 +18,23 @@ We recommend you use Chrome as your browser.
 
 2. Select the **Private images** AMI source.
 
-![AMI source selection](images/aws-ami-selection.png)
+![AMI source selection](images/aws-pick-private.png)
 
-3. The **Resource Group** screen appears. Select the AMI image, named **Qumulo**.
+3. The **Resource Group** screen appears. Select the AMI image, named **Qumulo-Trial...**.
 
-![AMI selection](images/aws-ami-imagechoose.png)
+![AMI selection](images/aws-select-trial-ami.png)
 
-4. Click **Launch** to begin provisioning the image.
-
-![AMI launch](images/aws-ami-launch-1.png)
+4. Click **Launch** to begin provisioning the image. The **Choose an Instance Type** screen appears.
 
 5. Choose an m4.2xlarge instance type, then scroll down and click **Review and Launch**. 
 
-![AMI instance type](images/aws-ami-instancetype-launch.png)
+![AMI instance type](images/aws-pick-m42xl.png)
 
 ## Set up the security group
 
 1. Click **Edit security groups**.
 
-![AMI Edit security groups](images/aws-ami-editsecuritygroups-1.png)
+![AMI Edit security groups](images/aws-edit-security-groups.png)
 
 2. Configure or select the security group. If you have an existing configuration that keeps the following ports open, you can use that. If not, create a new security group. Here are the ports that should be open:
 
@@ -47,14 +45,14 @@ We recommend you use Chrome as your browser.
 * Port 3712 &ndash; QF2 replication to/from instance
 * Port 8000 &ndash; GUI
 
-3. Here is an example screenshot that uses an existing security group. 
+3. Here is an example screenshot. 
 
-![AMI Select an existing security group](images/aws-ami-selectexisting-sec-group-2.png)
+![AMI Create new security group](images/aws-create-new-security-group.png)
 
 4. Click **Review and Launch**.
 5. The **Review Instance Launch Page** appears. Review the settings and, if you are satisfied, click **Launch**.
 
-![AMI Launch](images/ami-reviewandlaunch.png)
+![AMI Launch](images/aws-review-instance-launch.png)
 
 ## Launch the instance
 
@@ -66,19 +64,19 @@ We recommend you use Chrome as your browser.
 
 ![AMI initiate launch](images/ami-initiateinstancelaunch.png)
 
-3. In a few moments, you will see the *Launch Status** screen. 
+3. In a few moments, you will see the **Launch Status** screen. 
 
 ![Launch status screen](images/aws-launch-status-1.png)
 
 4. Click **View Instances**. A status screen appears.
 
-![AWS status screen](images/aws-instance-status-1.png)
+![AWS status screen](images/aws-status-pending.png)
 
 Initialization times vary and can take as long as 10 minutes. You may need to refresh your browser to get status updates.
 
 5. Keep checking the status screen until the **Status Checks** column shows **2/2 checks...**
 
-![AWS instance IP address and public DNS name](images/aws-address.png)
+![AWS instance IP address and public DNS name](images/aws-status-2-2.png)
 
 Once it does, Use your browser to access the instance. To see the IP address, select the instance and scroll down. 
 
