@@ -94,29 +94,29 @@ Once it does, Use your browser to access the instance. To see the IP address, se
 
 ![EULA submit](images/chrome-eula-submit.png)
 
-3. Name the cluster. 
+4. Name the cluster. 
 
 ![Name cluster](images/chrome-createcluster-name.png)
 
-4. Scroll down and set the password for the admin account.
+5. Scroll down and set the password for the admin account.
 
 ![Set admin password](images/chrome-adminpassword.png)
 
-5. Click **Create Cluster**.
+6. Click **Create Cluster**.
 
-6. A dialog box appears and asks for verification. Click **Yes, Create Cluster**.
+7. A dialog box appears and asks for verification. Click **Yes, Create Cluster**.
 
 ![Yes, create cluster](images/chrome-createcluster-verify.png)
 
-7. The status messaage appears.
+8. The status messaage appears.
 
 ![Creating cluster](images/chrome-creatingcluster-dialog.png)
 
-8. Once the cluster is created, the GUI appears.
+9. Once the cluster is created, the GUI appears.
 
 ![QF2 GUI](images/chrome-qumulo-gui.png)
 
-9. The cluster is ready to serve data.
+10. The cluster is ready to serve data.
 
 Now that your cluster is ready to start sharing data, you can set up exports or shares. Here are the tutorials.
 
