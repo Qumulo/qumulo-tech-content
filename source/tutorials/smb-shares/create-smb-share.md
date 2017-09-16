@@ -68,13 +68,7 @@ You can delete a share.
 
 3. Click **Yes, Delete** to confirm the deletion or click **Cancel** to keep the share.
 
-## What's next?
 
-There are many other QF2 features to explore. Here are some suggestions.
-
-* Quotas
-* Snapshots
-* Replication
 
 
 

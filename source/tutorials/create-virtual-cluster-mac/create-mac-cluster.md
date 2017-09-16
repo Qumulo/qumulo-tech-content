@@ -1,13 +1,11 @@
 ---
 title: Create a Qumulo File Fabric (QF2) Virtual Cluster on a Mac
 url: create-qf2-virtual-cluster-on-a-mac
-tags:
-  - virtual cluster
-  - tutorial
-  - macintosh
 ---
 
 # Create a Qumulo File Fabric (QF2) Virtual Cluster on a Mac
+(This procedure assumes that you've already downloaded the .ova file. If you haven't, go [here](/evaluate/download/vm).) 
+
 In this tutorial, you’ll simulate an on-premises QF2 cluster by using virtual machines (VM). A cluster is a collection of nodes, where an on-premises node is a single hardware chassis. A node is simulated in the tutorial by a VM. An on-premises cluster requires a minimum of four nodes because of the way the block protection scheme works.
 
 ## System requirements
@@ -24,7 +22,7 @@ Here are the system requirements.
 ## User requirements
 The tutorial creates the virutal cluster with VMware Fusion. The application uses some defaults when it configures the nodes. For example, it assumes that DHCP is available, and it automatically powers on each instance. If you have other preferences, you need to understand VMware Fusion well enough to change its settings.
 
-This procedure assumes that you've already downloaded the .ova file.
+
 
 ## Create a node
 
@@ -111,17 +109,16 @@ In this section, you create your first node.
 
 8. Note the IP address, located at the top. You can use your browser to reach the dashboard. In this example, the URL is http://10.20.231.123.
 
-## Shutting down
-To safely shut down your cluster, see the Safe Shutdown tutorial. Once a cluster is shut down, you have to power on the VMs again to restart it.
+9. Your cluster is now ready to start serving data.
 
 ## What's next?
 
 Now that you've set up your cluster, you can set up shares and exports. These tutorials will help you.
 
-* Create an NFS export
-* Create an SMB share
+* [Create an NFS export](/resources/how-to/create-an-nfs-export)
+* [Create an SMB share](/resources/how-to/create-smb-share)
 
-
+To safely shut down your cluster, see the [Safe Shutdown](/resources/how-to/safe-shutdown) tutorial. Once a cluster is shut down, you have to power on the VMs again to restart it.
 
 
 

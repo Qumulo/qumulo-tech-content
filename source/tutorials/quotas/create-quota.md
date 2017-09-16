@@ -95,13 +95,9 @@ You can delete a quota on a directory.
 
 3. Click **Yes, Delete** to confirm the deletion or click **Cancel** to keep the quota.
 
-## What's next?
 
-There are many other QF2 features to explore. Here are some suggestions.
 
-* Analytics
-* Snapshots
-* Replication
+
 
 
 

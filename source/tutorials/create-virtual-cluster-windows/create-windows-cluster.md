@@ -4,6 +4,8 @@ url: create-qf2-virtual-cluster-on-windows
 ---
 # Create a Qumulo File Fabric (QF2) Virtual Cluster on Windows
 
+(This procedure assumes that you've already downloaded the .ova file. If you haven't, go [here](/evaluate/download/vm).)
+
 In this tutorial, you’ll simulate an on-premises QF2 cluster by using VMware virtual machines (VM) to create four nodes. A cluster is a collection of nodes, where an on-premises node is a single hardware chassis (simulated in the tutorial by a VM). An on-premises cluster requires a minimum of four nodes because of the way the Qumulo block protection scheme works.
 
 ## System Requirements
@@ -28,7 +30,7 @@ The tutorials walk you through everything you need to know to set up a cluster b
 
 Familiarity with VMware Fusion is helpful.
 
-This procedure assumes that you've already downloaded the .ova file.
+
 
 ## Open the VMware File
 In this section you open the VMware file. 
@@ -152,15 +154,14 @@ In this section you create a cluster.
 
 8. Scroll down to see the IPv4 addresses assigned to the nodes.
 
-## Shutting down
-To safely shut down your cluster, see the Safe Shutdown tutorial. Once a cluster is shut down, you have to power on the VMs again to restart it.
-
 ## What's next?
 
-Your cluster is now set up and ready to share data. The next step is to create shares and exports. You can use either the Network File System (NFS) protocol or the Server Message Block (SMB) protocol. You might find these tutorials helpful.
+Your cluster is now set up and ready to share data. The next step is to create exports and shares. Here are the tutorials.
 
-Create an NFS export
-Create an SMB share
+* [Create an NFS export](/resources/how-to/create-an-nfs-export)
+* [Create an SMB share](/resources/how-to/create-smb-share)
+
+To safely shut down your cluster, see the [Safe Shutdown](/resources/how-to/safe-shutdown) tutorial. Once a cluster is shut down, you have to power on the VMs again to restart it.
 
 
  

@@ -99,11 +99,6 @@ In this section you delete a policy from the list on the **Replication** page.
 
 3. Click **Yes, Delete**.
 
-There are many other QF2 features to explore. Here are some suggestions.
-
-* Analytics
-* Snapshots
-* Quotas
 
 
 

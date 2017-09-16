@@ -65,10 +65,5 @@ You can delete an export.
 
 3. Click **Yes, Delete Export** to confirm the deletion or click **Cancel** to keep the export.
 
-## What's next?
 
-There are many other QF2 features to explore. Here are some suggestions.
 
-* Set Quotas
-* Take Snapshots
-* Replication

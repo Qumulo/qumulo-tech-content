@@ -114,5 +114,10 @@ Name the cluster; in this example we have named our cluster _qumulo-VM_.
     1. Scrolling down will show the IPv4 addresses assigned to each node:
     ![Qumulo Virtual Cluster](images/gui_page_info_networkconfiguration_nodes.png "Main cluster page")
 
-#### Done!
-This concludes initial configuration.  The Qumulo cluster is now sharing data and exports and shares may now be created.
+## What's next
+Now that you've set up your cluster, you're ready to share data by setting up shares and exports. These tutorials will help you.
+
+* Create an NFS export
+* Create an SMB share
+
+
