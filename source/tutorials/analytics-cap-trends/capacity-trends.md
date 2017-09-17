@@ -12,29 +12,29 @@ If the capacity change for a directory is greater than 1% of the overall capacit
 
 1. On the main dashboard, point to **Analytics** and click **Capacity Trends**.
 
-![Capacity Trends Select](images/a-ct-select.png)
+    ![Capacity Trends Select](images/a-ct-select.png)
 
 2. You will see a graph that shows the capacity used by the file system over time. 
 
-![Capacity Trends Main Window](images/a-ct-main.png)
+    ![Capacity Trends Main Window](images/a-ct-main.png)
 
-The green bars represent changes in capacity over time. The purple line charts total data consumed in the file system over time. The graph automatically scales as usage changes.
+    The green bars represent changes in capacity over time. The purple line charts total data consumed in the file system over time. The graph automatically scales as usage changes.
 
 3. You can change the time period to be the last 72 hours, the last 30 days, or the last 52 weeks. 
 
-![Capacity Trends Scale Change](images/a-ct-timescalechoices.png)
+    ![Capacity Trends Scale Change](images/a-ct-timescalechoices.png)
 
-Here is an example of a graph that shows  the last 72 hours.
+    Here is an example of a graph that shows  the last 72 hours.
 
-![Capacity Trends last 72 hours](images/a-ct-72hours.png)
+    ![Capacity Trends last 72 hours](images/a-ct-72hours.png)
 
 4. Hover over a green bar to show the time period, change in size and amount of data consumed (or released).
 
-![Capacity Trends - Change Detail](images/a-ct-72hours-time-hover.png)
+    ![Capacity Trends - Change Detail](images/a-ct-72hours-time-hover.png)
 
 5. Click on a data point to see details about the specific paths that were involved with the change in capacity.
 
-![Capacity Trends - Data Point Directory Details](images/a-ct-change-details-directory.png)
+    ![Capacity Trends - Data Point Directory Details](images/a-ct-change-details-directory.png)
 
 
 
