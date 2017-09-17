@@ -14,46 +14,46 @@ Quotas are enforced in real time. If a directory fills to the limit of a quota (
 2. The dashboard appears.
 3. Point to **Sharing** and then click **Quotas** from the drop-down list.
 
-![Sharing then Quotas](images/quotas-sharing-quotas.png)
+    ![Sharing then Quotas](images/quotas-sharing-quotas.png)
 
 4. The Quota page opens.
 
-![Quotas-main page](images/quotas-main.png)
-
-Under Quotas are two bar graphs that give you information about the cluster and quotas. The top graph shows the amount of storage in the cluster that’s already been used and what percentage of usable storage is available.
-
-The bottom graph shows the amount of storage that’s been used in quotas and what percentage that is of the total percentage of storage provisioned for quotas. 
-
-The Quotas Used calculation is the sum of used capacity across all quotas. The Quotas Provisioned calculation is the sum of all quota limits.
-
-When the parent directory of a quota also has a quota provisioned, only the parent quota is included in the calculation.
-
-Under the bar graphs is a list of the currently provisioned quotas.
+    ![Quotas-main page](images/quotas-main.png)
+    
+    Under Quotas are two bar graphs that give you information about the cluster and quotas. The top graph shows the amount of storage in the cluster that’s already been used and what percentage of usable storage is available.
+    
+    The bottom graph shows the amount of storage that’s been used in quotas and what percentage that is of the total percentage of storage provisioned for quotas. 
+    
+    The Quotas Used calculation is the sum of used capacity across all quotas. The Quotas Provisioned calculation is the sum of all quota limits.
+    
+    When the parent directory of a quota also has a quota provisioned, only the parent quota is included in the calculation.
+    
+    Under the bar graphs is a list of the currently provisioned quotas.
 
 ## Create the Quota
 In this procedure, you create a quote through the dashboard. You should still be on the Quotas page.
 
 1. Click **Create Quota**.
 
-![Create quota](images/quota-createquotabutton.png)
+    ![Create quota](images/quota-createquotabutton.png)
 
 2. The Create Quota dialog box opens.
 
-![Create Quota dialog](images/quota-createquota.png)
+    ![Create Quota dialog](images/quota-createquota.png)
 
 3. Enter the directory path where you will apply the quota. The directory must already exist.
 4. Enter the size of the quota and, if necessary, select the unit, either gigabyte(GB), terabyte(TB) or petabyte(PB).
 
-![Create Quota in GB, TB or PB](images/quota-createquota-GBTBPB.png)
+    ![Create Quota in GB, TB or PB](images/quota-createquota-GBTBPB.png)
 
-In this example, a 1GB quota will be created on the directoy /testdata/a.
+    In this example, a 1GB quota will be created on the directoy /testdata/a.
 
-![Create quota-save](images/quotas-create-save.png)
+    ![Create quota-save](images/quotas-create-save.png)
 
 5. Click **Save**.
 6. The quota appears on the list of provisioned quotas.
 
-![New quota added to the list of provisioned quotas](images/quota-list-added.png)
+    ![New quota added to the list of provisioned quotas](images/quota-list-added.png)
 
 ## Quota limits
 When a directory exceeds its quota, it turns red.
@@ -74,10 +74,11 @@ You can edit a quota by changing its size.
 
 1. On the Quotas main page, click the pencil icon next to the directory whose quota you want to change.
 
-![Edit quota button](images/quota-editbutton.png)
+    ![Edit quota button](images/quota-editbutton.png)
+
 2. The Edit Quota dialog opens.
 
-![Edit quota dialog](images/quota-editquota.png)
+    ![Edit quota dialog](images/quota-editquota.png)
 
 3. Change the size of the quota.
 4. Click **Save** to save the change or click **Cancel** to discard it.
@@ -87,20 +88,10 @@ You can delete a quota on a directory.
 
 1. On the Quotas main page, click the trashcan icon next to the directory whose quota you want to delete.
 
-![Delete quota dialog](images/quotas-trashcanbutton.png)
+    ![Delete quota dialog](images/quotas-trashcanbutton.png)
 
 2. You will be asked to confirm the deletion.
 
-![Delete quota dialog](images/quotas-deletequota-yesdelete.png)
+    ![Delete quota dialog](images/quotas-deletequota-yesdelete.png)
 
 3. Click **Yes, Delete** to confirm the deletion or click **Cancel** to keep the quota.
-
-
-
-
-
-
-
-
-
-
