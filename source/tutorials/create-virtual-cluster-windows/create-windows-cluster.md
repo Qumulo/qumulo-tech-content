@@ -15,9 +15,10 @@ Here are the system requirements.
 You need to have VMware Fusion installed on your computer.
 * You need Internet access.
 * We recommend that you use the Chrome browser. The first time you access the cluster with the browser, you may get a warning that your connection is not private. If you do:
-1. Scroll down and click **Advanced**.
-2. Click **Proceed to *IP Address***
-3. Log in to the cluster as admin.
+
+    1. Scroll down and click **Advanced**.
+    2. Click **Proceed to *IP Address***
+    3. Log in to the cluster as admin.
 
 ## User requirements
 The tutorials walk you through everything you need to know to set up a cluster but it’s helpful if you have some understanding of the network you’ll be using. Try to find out if your environment uses the Dynamic Host Configuration Protocol (DHCP) to assign IP addresses or if you need to assign the addresses yourself. If you do need to assign the addresses manually, collect the following information:
