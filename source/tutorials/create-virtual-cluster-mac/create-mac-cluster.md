@@ -15,9 +15,11 @@ Here are the system requirements.
 * You need VMware Fusion installed.
 * You need access to the Internet. 
 * We recommend that you use the Chrome browser. The first time you access the cluster with the browser, you may get a warning that your connection is not private. If you do:
-1. Scroll down and click **Advanced**.
-2. Click **Proceed to *IP Address***
-3. Log in to the cluster as admin.
+
+    1. Scroll down and click **Advanced**.
+    2. Click **Proceed to *IP Address***
+    3. Log in to the cluster as admin.If you do:
+
 
 ## User requirements
 The tutorial creates the virutal cluster with VMware Fusion. The application uses some defaults when it configures the nodes. For example, it assumes that DHCP is available, and it automatically powers on each instance. If you have other preferences, you need to understand VMware Fusion well enough to change its settings.
