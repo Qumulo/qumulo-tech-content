@@ -58,7 +58,7 @@ In this section you open the VMware file.
     ![VMware default settings](images/vmwaredefault.png)
 
 ## Select networking option
-1. Under **My Computeer**, click the new instance.
+1. Under **My Computer**, click the new instance.
 2. In the right pane, click **Edit virtual machine settings**.
 3. The **Virtual Machine Settings** window opens.
 4. Choose the appropriate networking option for your environment. Here is an example that uses a bridged connection.
