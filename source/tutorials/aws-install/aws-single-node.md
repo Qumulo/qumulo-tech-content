@@ -16,17 +16,19 @@ We recommend you use Chrome as your browser.
 
     ![EC2 dashboard - AMI images](images/aws-images-ami.png)
 
-2. Select the **Private images** AMI source.
+2. Select the region you submitted in the AMI request form [Region Select].
+
+3. Select the **Private images** AMI source.
 
     ![AMI source selection](images/aws-pick-private.png)
 
-3. The **Resource Group** screen appears. Select the AMI image, named **Qumulo-Trial...**.
+4. The **Resource Group** screen appears. Select the AMI image, named **Qumulo-Trial...**.
 
     ![AMI selection](images/aws-select-trial-ami.png)
 
-4. Click **Launch** to begin provisioning the image. The **Choose an Instance Type** screen appears.
+5. Click **Launch** to begin provisioning the image. The **Choose an Instance Type** screen appears.
 
-5. Choose an m4.2xlarge instance type, then scroll down and click **Review and Launch**. 
+6. Choose an m4.2xlarge instance type, then scroll down and click **Review and Launch**. 
 
     ![AMI instance type](images/aws-pick-m42xl.png)
 
